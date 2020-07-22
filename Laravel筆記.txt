@@ -1,0 +1,53 @@
+[環境需求]
+	# composer
+	# node.js
+
+[CMD]
+	#安裝 packge.json 列表的套件 [含Bootstrap]
+	npm install
+
+	#封裝前端資源 (CSS/JS)
+	npm run dev
+
+	#使用 composer 安裝 laravel
+	composer global require "laravel/installer=~1.1"
+
+	#創建名為 firstproject 的 laravel 專案
+	composer create-project --prefer-dist laravel/laravel firstproject
+
+	#啟動服務
+	php artisan serve
+
+	#啟動維護模式
+	php artisan down
+
+	#關閉維護模式
+	php artisan up
+
+	#查詢 Route 列表
+	php artisan route:list
+
+	#創建 news migration
+	php artisan make:migration create_news_table --create=news
+
+	#使用 migration 創建資料表
+	php artisan migration
+
+	#創建 News Model
+	php artisan make:model News
+
+	#創建 User Model & User migration
+	php artisan make:model User --migration
+
+	#創建 OldMiddleware middleware
+	php artisan make:middleware OldMiddleware
+
+[Route]
+	#普通 Route
+	Route::get('/news','Newscontroller@index');
+	#CRUD Route
+	Route::resource('news','Newscontroller');
+
+[Model]
+	#ORM預設對應Model名複數的Table Ex: people Model => peoples Tabel
+	#$fillable設定允許的欄位
