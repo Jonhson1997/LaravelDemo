@@ -59,36 +59,36 @@
     	<section id="facts" class="facts">
     		<div class="container">
     			<div class="section-title">
-    				<h2>案件經歷</h2>
-    				<p>曾獨立開發過業界知名企業網站如:山隆通運、國立中興大學、品皇咖啡、德盟儀器、泰和碩藥品、羅仕企業等</p>
+    				<h2>案件經驗</h2>
+    				<p>曾獨立開發過業界知名企業網站如:山隆通運、國立中興大學、德盟企業、泰和碩藥品、楓林館等</p>
     			</div>
     			<div class="row no-gutters">
     				<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
     					<div class="count-box">
-    						<i class="icofont-simple-smile"></i>
-    						<span data-toggle="counter-up">232</span>
-    						<p><strong>Happy Clients</strong> consequuntur quae</p>
+    						<i class="icofont-repair"></i>
+    						<span data-toggle="counter-up">122</span>
+    						<p><strong>舊案維護</strong> 資深維護經驗</p>
     					</div>
     				</div>
     				<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
     					<div class="count-box">
-    						<i class="icofont-document-folder"></i>
-    						<span data-toggle="counter-up">521</span>
-    						<p><strong>Projects</strong> adipisci atque cum quia aut</p>
+    						<i class="icofont-badge"></i>
+    						<span data-toggle="counter-up">20</span>
+    						<p><strong>企業形象</strong> 快速開發技術</p>
     					</div>
     				</div>
     				<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
     					<div class="count-box">
-    						<i class="icofont-live-support"></i>
-    						<span data-toggle="counter-up">1,463</span>
-    						<p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+    						<i class="icofont-shopping-cart"></i>
+    						<span data-toggle="counter-up">3</span>
+    						<p><strong>電商平台</strong> 獨立作業能力</p>
     					</div>
     				</div>
     				<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
     					<div class="count-box">
     						<i class="icofont-users-alt-5"></i>
-    						<span data-toggle="counter-up">15</span>
-    						<p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+    						<span data-toggle="counter-up">5</span>
+    						<p><strong>複雜客製</strong> 團隊協調開發</p>
     					</div>
     				</div>
     			</div>
@@ -100,7 +100,7 @@
     		<div class="container">
     			<div class="section-title">
     				<h2>語言 / 技術</h2>
-    				<p>文本</p>
+    				<!-- <p>文本</p> -->
     			</div>
     			<div class="row skills-content">
     				<div class="col-lg-6" data-aos="fade-up">
@@ -110,38 +110,62 @@
     							<div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
     						</div>
     					</div>
-    					<div class="progress">
-    						<span class="skill">CSS <i class="val">90%</i></span>
-    						<div class="progress-bar-wrap">
-    							<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-    						</div>
-    					</div>
-    					<div class="progress">
-    						<span class="skill">JavaScript <i class="val">75%</i></span>
-    						<div class="progress-bar-wrap">
-    							<div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-    						</div>
-    					</div>
+                        <div class="progress">
+                            <span class="skill">PHP <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <span class="skill">JavaScript <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <span class="skill">Ajax <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <span class="skill">Java <i class="val">70%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
     				</div>
     				<div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="progress">
+                            <span class="skill">Bootstrap <i class="val">75%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
     					<div class="progress">
-    						<span class="skill">PHP <i class="val">80%</i></span>
-    						<div class="progress-bar-wrap">
-    							<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-    						</div>
-    					</div>
-    					<div class="progress">
-    						<span class="skill">WordPress/CMS <i class="val">90%</i></span>
+    						<span class="skill">CodeIgniter <i class="val">90%</i></span>
     						<div class="progress-bar-wrap">
     							<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
     						</div>
     					</div>
     					<div class="progress">
-    						<span class="skill">Photoshop <i class="val">55%</i></span>
+    						<span class="skill">jQuery <i class="val">90%</i></span>
     						<div class="progress-bar-wrap">
-    							<div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+    							<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
     						</div>
     					</div>
+                        <div class="progress">
+                            <span class="skill">Python <i class="val">70%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <span class="skill">API串接 <i class="val">95%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
     				</div>
     			</div>
     		</div>
@@ -152,56 +176,48 @@
     		<div class="container">
     			<div class="section-title">
     				<h2>經歷</h2>
-    				<p>文本</p>
+    				<!-- <p>文本</p> -->
     			</div>
     			<div class="row">
     				<div class="col-lg-6" data-aos="fade-up">
-    					<h3 class="resume-title">Sumary</h3>
+    					<h3 class="resume-title">摘要</h3>
     					<div class="resume-item pb-0">
-    						<h4>Alex Smith</h4>
-    						<p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+    						<h4>張健生</h4>
+    						<p><em>具有高度學習力及適應力的程式設計師，擁有2年以上工作經驗，擅長PHP、CodeIgniter、jQuery、Ajax等技術，並在大學時期參加多個產學合作案。</em></p>
     						<ul>
-    							<li>Portland par 127,Orlando, FL</li>
-    							<li>(123) 456-7891</li>
-    							<li>alice.barkley@example.com</li>
+    							<li>台中市</li>
+    							<li>0976-602-528</li>
+    							<li>johnson97312@gmail.com</li>
     						</ul>
     					</div>
-    					<h3 class="resume-title">Education</h3>
+    					<h3 class="resume-title">學歷</h3>
     					<div class="resume-item">
-    						<h4>Master of Fine Arts &amp; Graphic Design</h4>
-    						<h5>2015 - 2016</h5>
-    						<p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-    						<p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-    					</div>
-    					<div class="resume-item">
-    						<h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-    						<h5>2010 - 2014</h5>
-    						<p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-    						<p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+    						<h4>資訊工程學系學士</h4>
+    						<h5>2015 - 2019</h5>
+    						<p><em>台中市霧峰區亞洲大學</em></p>
+    						<p>在一年級時因成績優異受到教授青睞，邀請加入實驗室，並在二、三年級時參加ITSA & PTC等相關程式競賽於校內獲得優異成績，期間參與了多項產學合作案：</p>
+                            <ul>
+                                <li>電子書軟體開發</li>
+                                <li>募資平台網站開發</li>
+                                <li>叫車服務APP開發</li>
+                                <li>租借腳踏車感應系統開發</li>
+                                <li>校園植物導覽平台開發</li>
+                                <li>寶成公司滲透測試</li>
+                            </ul>
+                            <p>四年級時至業界實習並結合公司後台與LineBot技術開發出客製化後端管理LineBot功能，實習結束後持續就職至今。</p>
     					</div>
     				</div>
     				<div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-    					<h3 class="resume-title">Professional Experience</h3>
+    					<h3 class="resume-title">經歷</h3>
     					<div class="resume-item">
-    						<h4>Senior graphic design specialist</h4>
-    						<h5>2019 - Present</h5>
-    						<p><em>Experion, New York, NY </em></p>
+    						<h4>高階程式設計師</h4>
+    						<h5>2018 - 仍在職</h5>
+    						<p><em>杰鼎數位科技公司</em></p>
     						<ul>
-    							<li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-    							<li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-    							<li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-    							<li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-    						</ul>
-    					</div>
-    					<div class="resume-item">
-    						<h4>Graphic design specialist</h4>
-    						<h5>2017 - 2018</h5>
-    						<p><em>Stepping Stone Advertising, New York, NY</em></p>
-    						<ul>
-    							<li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-    							<li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-    							<li>Recommended and consulted with clients on the most appropriate graphic design</li>
-    							<li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+    							<li>負責專案獨立開發，效能優化，全端工程</li>
+    							<li>給予案件規劃建議，架構設計，流程檢驗</li>
+    							<li>開發前、後端模組及常用插件供生產部門使用</li>
+    							<li>協助設計部門套用、修改前端插件</li>
     						</ul>
     					</div>
     				</div>
@@ -213,271 +229,32 @@
     	<section id="portfolio" class="portfolio section-bg">
     		<div class="container">
     			<div class="section-title">
-    				<h2>作品集</h2>
-    				<p>文本</p>
+    				<h2>作品</h2>
+    				<!-- <p>文本</p> -->
     			</div>
     			<div class="row" data-aos="fade-up">
     				<div class="col-lg-12 d-flex justify-content-center">
     					<ul id="portfolio-flters">
-    						<li data-filter="*" class="filter-active">All</li>
-    						<li data-filter=".filter-app">App</li>
-    						<li data-filter=".filter-card">Card</li>
-    						<li data-filter=".filter-web">Web</li>
+    						<li data-filter="*" class="filter-active">全部</li>
+    						<li data-filter=".filter-01">企業形象</li>
+    						<li data-filter=".filter-02">電商平台</li>
     					</ul>
     				</div>
     			</div>
     			<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    @foreach($items as $k => $v)
+    				<div class="col-lg-4 col-md-6 portfolio-item filter-{{$v['type']}}">
     					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
+    						<img src="{{ asset('images/'.$v['img']) }}" class="img-fluid" alt="">
     						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-1.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+    							<a href="{{ asset('images/'.$v['img']) }}" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+    							<a href="{{(!empty($v['url']))?$v['url']:'JavaScript:void(0)'}}" target="{{(!empty($v['url']))?'_blank':''}}" title="More Details"><i class="bx bx-link"></i></a>
     						</div>
     					</div>
     				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-web">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-2.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-3.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-4.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-web">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-5.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-5.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-app">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-6.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-7.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-7.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-card">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-8.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-8.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-4 col-md-6 portfolio-item filter-web">
-    					<div class="portfolio-wrap">
-    						<img src="{{ asset('template/assets/img/portfolio/portfolio-9.jpg') }}" class="img-fluid" alt="">
-    						<div class="portfolio-links">
-    							<a href="{{ asset('template/assets/img/portfolio/portfolio-9.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-    							<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-    						</div>
-    					</div>
-    				</div>
+                    @endforeach
     			</div>
     		</div>
     	</section><!-- End Portfolio Section -->
-
-    	<!-- ======= Services Section ======= -->
-    	<section id="services" class="services">
-    		<div class="container">
-    			<div class="section-title">
-    				<h2>Services</h2>
-    				<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-    			</div>
-    			<div class="row">
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-    					<div class="icon"><i class="icofont-computer"></i></div>
-    					<h4 class="title"><a href="">Lorem Ipsum</a></h4>
-    					<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-    				</div>
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-    					<div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-    					<h4 class="title"><a href="">Dolor Sitema</a></h4>
-    					<p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-    				</div>
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-    					<div class="icon"><i class="icofont-earth"></i></div>
-    					<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-    					<p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-    				</div>
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-    					<div class="icon"><i class="icofont-image"></i></div>
-    					<h4 class="title"><a href="">Magni Dolores</a></h4>
-    					<p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-    				</div>
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-    					<div class="icon"><i class="icofont-settings"></i></div>
-    					<h4 class="title"><a href="">Nemo Enim</a></h4>
-    					<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-    				</div>
-    				<div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-    					<div class="icon"><i class="icofont-tasks-alt"></i></div>
-    					<h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-    					<p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-    				</div>
-    			</div>
-    		</div>
-    	</section><!-- End Services Section -->
-
-    	<!-- ======= Testimonials Section ======= -->
-    	<section id="testimonials" class="testimonials section-bg">
-    		<div class="container">
-    			<div class="section-title">
-    				<h2>Testimonials</h2>
-    				<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-    			</div>
-    			<div class="owl-carousel testimonials-carousel">
-    				<div class="testimonial-item" data-aos="fade-up">
-    					<p>
-    						<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-    						Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-    						<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-    					</p>
-    					<img src="{{ asset('template/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
-    					<h3>Saul Goodman</h3>
-    					<h4>Ceo &amp; Founder</h4>
-    				</div>
-    				<div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
-    					<p>
-    						<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-    						Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-    						<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-    					</p>
-    					<img src="{{ asset('template/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
-    					<h3>Sara Wilsson</h3>
-    					<h4>Designer</h4>
-    				</div>
-    				<div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
-    					<p>
-    						<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-    						Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-    						<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-    					</p>
-    					<img src="{{ asset('template/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
-    					<h3>Jena Karlis</h3>
-    					<h4>Store Owner</h4>
-    				</div>
-    				<div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
-    					<p>
-    						<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-    						Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-    						<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-    					</p>
-    					<img src="{{ asset('template/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
-    					<h3>Matt Brandon</h3>
-    					<h4>Freelancer</h4>
-    				</div>
-    				<div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
-    					<p>
-    						<i class="bx bxs-quote-alt-left quote-icon-left"></i>
-    						Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-    						<i class="bx bxs-quote-alt-right quote-icon-right"></i>
-    					</p>
-    					<img src="{{ asset('template/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
-    					<h3>John Larson</h3>
-    					<h4>Entrepreneur</h4>
-    				</div>
-    			</div>
-    		</div>
-    	</section><!-- End Testimonials Section -->
-
-    	<!-- ======= Contact Section ======= -->
-    	<section id="contact" class="contact">
-    		<div class="container">
-    			<div class="section-title">
-    				<h2>Contact</h2>
-    				<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-    			</div>
-    			<div class="row" data-aos="fade-in">
-    				<div class="col-lg-5 d-flex align-items-stretch">
-    					<div class="info">
-    						<div class="address">
-    							<i class="icofont-google-map"></i>
-    							<h4>Location:</h4>
-    							<p>A108 Adam Street, New York, NY 535022</p>
-    						</div>
-    						<div class="email">
-    							<i class="icofont-envelope"></i>
-    							<h4>Email:</h4>
-    							<p>info@example.com</p>
-    						</div>
-    						<div class="phone">
-    							<i class="icofont-phone"></i>
-    							<h4>Call:</h4>
-    							<p>+1 5589 55488 55s</p>
-    						</div>
-    						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
-    					</div>
-    				</div>
-    				<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-    					<form action="forms/contact.php" method="post" role="form" class="php-email-form">
-    						<div class="form-row">
-    							<div class="form-group col-md-6">
-    								<label for="name">Your Name</label>
-    								<input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-    								<div class="validate"></div>
-    							</div>
-    							<div class="form-group col-md-6">
-    								<label for="name">Your Email</label>
-    								<input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
-    								<div class="validate"></div>
-    							</div>
-    						</div>
-    						<div class="form-group">
-    							<label for="name">Subject</label>
-    							<input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-    							<div class="validate"></div>
-    						</div>
-    						<div class="form-group">
-    							<label for="name">Message</label>
-    							<textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
-    							<div class="validate"></div>
-    						</div>
-    						<div class="mb-3">
-    							<div class="loading">Loading</div>
-    							<div class="error-message"></div>
-    							<div class="sent-message">Your message has been sent. Thank you!</div>
-    						</div>
-    						<div class="text-center"><button type="submit">Send Message</button></div>
-    					</form>
-    				</div>
-    			</div>
-    		</div>
-    	</section><!-- End Contact Section -->
     </main>
 @endsection
