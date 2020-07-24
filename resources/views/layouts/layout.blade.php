@@ -30,7 +30,7 @@
                     <img src="{{ asset('images/johnson.jpg') }}" alt="" class="img-fluid rounded-circle">
                     <h1 class="text-light"><a href="{{ url('/') }}">張健生</a></h1>
                     <div class="social-links mt-3 text-center">
-                        <a href="https://github.com/Jonhson1997" class="github"><i class="bx bxl-github"></i></a>
+                        <a href="https://github.com/Jonhson1997" target="_blank"  class="github"><i class="bx bxl-github"></i></a>
                     </div>
                 </div>
                 <nav class="nav-menu">
